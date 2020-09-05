@@ -1,0 +1,6 @@
+Aby uruchomić aplikację konieczne jest posiadanie zainstalowanego środowiska node.js. 
+1. W lokalizacji /serwis-komputerowy uruchomić konsole i wpisać npm install
+2. W lokalizacji /client uruchomić konsole i wpisać npm install
+3. W lokalizacji /serwis-komputerowy uruchomić konsole i wspisać npm run dev
+
+Obecnie założone są dwa konta użykowników: admin@mail.com, hasło: Haslo1234, pracownik@mail.com, hasło: Haslo1234
